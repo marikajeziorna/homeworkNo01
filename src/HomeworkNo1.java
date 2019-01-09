@@ -1,4 +1,4 @@
-public class homeworkNo1 {
+public class HomeworkNo1 {
     public static void main(String[] args) {
         System.out.println("Uczę");
         System.out.println("się");
